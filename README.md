@@ -1,5 +1,6 @@
 # Virtualisation-et-Cloud-Computing
-Cours &amp; Labs
+Cours &amp; Labs</br>
+[Virtualization and Cloud Computing](https://www.youtube.com/watch?v=Jph3H1wZTKM&list=PLDW872573QAbcpQ7VSUdcm4o3tgnQYBE8)
 # LAB1 : Installation d'un Hyperviseur sur une Machine Virtuelle via un Logiciel de Virtualisation
 
 # LAB2 -- ESXi & Hyper-V
