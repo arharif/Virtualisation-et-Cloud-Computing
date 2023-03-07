@@ -4,4 +4,4 @@ Cours &amp; Labs
 
 # LAB2 -- ESXi & Hyper-V
 How to download VmWare ESXi FREE and his license key : https://www.youtube.com/watch?v=4anF50LuGCM </br>
-## keyboard for vmware | f11 = (fn+f11)
+ keyboard for vmware | f11 = (fn+f11)
